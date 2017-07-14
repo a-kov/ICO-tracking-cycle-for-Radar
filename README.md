@@ -11,13 +11,17 @@ In order to be listed on Radar, each new blockchain system will initially be loc
 #### Group 1: "Starred" / "Pinned"
 
 _Description._ Systems that initially demonstrate a clear or at least some potential to deliver an interesting and valuable product worth investing into.
+
 _Selection criteria._ The indicator used to define the system’s initial potential will be the quality of a whitepaper or of a Proof of Concept code. A system should also comply with the following minimal requirements: a published whitepaper or a Proof of Concept code, open source code policy, autonomous decentralized system on blockchain with economic incentives introduced via a token.
+
 _Work approach._ By the end of the Radar tracking cycle, a system should be very well verified. As to systems that raise some concerns initially, cyber·Fund will follow up their development and can re-evaluate their potential later. As part of the verification process, an ICO report will be prepared on each system planning to raise funds via ICO. The report will be published on [cyber·Blog](https://blog.cyber.fund/Cyber.Blog). Projects that look most promising for investors will be granted more attention in a report. The projects from this Group should be handled on a first priority basis.
 
 #### Group 2: "Purgatory" / "Laundry" 
 
 _Description._ All other projects that do not comply with the Group 1 selection criteria belong her. Those are systems that raise significant concerns, or their potential is not clear. 
+
 _Selection criteria._ A system should meet the formal selection criteria only: it should have a project name, headline, logo, website, whitepaper/ Proof of Concept code, and plan to issue a token.
+
 _Work approach._ Group 2 systems will be listed in a separate section on Radar and will be open to a verification by the community by voting them up or down. Group 2 systems will be processed by cyber·Fund on a second priority basis.
 
 ### Tracking cycle
