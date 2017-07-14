@@ -41,6 +41,7 @@ below the cyber·Fund work flow is laid out per stage including a source of upda
 * Project’s request on cyber•Fund or cybernator
 
 **Required actions**
+
 Group 1
 * Subscribe to the project’s RSS to track ICO related announcements; if not available - alert the team and subscribe to e-mail announcements
 * Add to chaingear which automatically places a system under “Anticipated” ICOs
