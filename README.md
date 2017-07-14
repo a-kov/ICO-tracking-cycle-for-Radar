@@ -8,7 +8,7 @@ This document describes the methodology of tracking blockchain systems through d
 ### Classification of blockchain systems 
 In order to be listed on Radar, each new blockchain system will initially be located in one of the two following groups.
 
-#### Group 1: "Rocking" 
+#### Group 1: "Starred" 
 
 * _Description._ Systems that demonstrate a clear or at least some initial potential to deliver an interesting and valuable product.
 * _Selection criteria._ The indicator used to define the system’s initial potential will be the quality of the whitepaper or a Proof of Concept code. All systems in this group should also comply with the following minimal requirements: a published whitepaper or a Proof of Concept code, open source code policy, autonomous decentralized system on blockchain with economic incentives introduced via a token.
@@ -32,4 +32,38 @@ The tracking cycle consists of five stages defined by a triggering event. Those 
 Per each stage we will lay out the work process by Cyber.Fund team into the following categories: a source of updates (where the team gets to know that a triggering event happened) and required actions (what actions Cyber.Fund team should undertake to maintain the tracking process). 
 
 **Stage 1. PoC code or WP is released**
+
+Source of information
+
+* Ad hoc updates from web (blogs, Twitter, etc.)
+* Ad hoc external advice, e.g. from Satoshi.Fund team
+* Project’s request on cyber•Fund or cybernator
+
+Required actions
+* Groups 1 and 2: Subscribe to the project’s RSS to track ICO related announcements; add RSS to chaingear.
+* Group 1: Add to chaingear under the section “Anticipated”
+* Group 2: Add to chaingear under the section “Purgatory” (not yet available)
+
+**Stage 2. ICO date announced**
+
+Source of information
+
+* Project’s updates received via RSS subscription
+
+Required actions
+
+Group 1:
+* Update chaingear removing the project under the section “Upcoming ICOs”
+* Tweet
+* Prepare a short/detailed report for Cyber.blog
+* Distribute the report ASAP via all communication channels
+* Follow-up comments to the publication on Cyber.Blog
+
+Group 2:
+
+Re-evaluate and choose one of the three options:
+
+ * Leave in Group 2 (Purgatory)
+ * Remove to Group 1 and follow the actions applicable to Group 1
+ * Add a scam alert to chaingear (not yet available) and tweet
 
