@@ -86,11 +86,10 @@ Group 2
 
 ##### 4. ICO closes
 
-**Source of information**
+##### Source of information
 * Project’s updates via RSS/e-mail/Twitter
 
-**Required actions**
-
+##### Required actions
 Group 1  
 * Tweet ASAP about the end of ICO
 * Update ASAP the ICO end date on chaingear (a system is then removed to "Successful" ICOs) 
