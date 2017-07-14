@@ -66,6 +66,7 @@ Group 1
 * Follow-up comments to the publication on cyber•Blog
 
 Group 2
+
 Re-evaluate a system and choose one of the three options:
  * Remove to Group 1 and follow the actions for Group 1 systems described above
  * Leave in Group 2 (Purgatory) and update chaingear with new data
@@ -84,7 +85,7 @@ Group 1
 Group 2  
 * Update chaingear with new data (automatically removes the system to "Ongoing" ICOs) 
 
-##### 4. ICO closes
+#### 4. ICO closes
 
 ##### Source of information
 * Project’s updates via RSS/e-mail/Twitter
