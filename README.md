@@ -14,7 +14,7 @@ _Selection criteria._ The indicator used to define the system’s initial potent
 
 _Work approach._ By the end of the Radar tracking cycle, a system should be very well verified. As to systems that raise some concerns initially, cyber·Fund will follow up their development and can re-evaluate their potential later. As part of the verification process, an ICO report will be prepared on each system planning to raise funds via ICO. The report will be published on [cyber·Blog](https://blog.cyber.fund/Cyber.Blog). Projects that look most promising for investors will be granted more attention in a report. The projects from this Group should be handled on a first priority basis.
 
-#### Group 2: "Purgatory"/"Laundry" 
+#### Group 2: "Purgatory"/"Laundry"/ "On Trial"
 
 _Description._ All other projects that do not comply with the Group 1 selection criteria belong her. Those are systems that raise significant concerns, or their potential is not clear. 
 
@@ -36,7 +36,7 @@ The work flow per each stage is laid out below. For each stage a source of updat
 
 #### 1. PoC code or WP is released
 
-##### Source
+##### Source of information
 * Ad hoc updates from web (blogs, Twitter, online news media, etc.)
 * Ad hoc external input, e.g. from Satoshi•Fund team
 * Project’s request on cyber•Fund or cybernator
@@ -53,7 +53,7 @@ Group 2
 
 #### 2. ICO date announced
 
-##### Source
+##### Source of information
 * Project’s updates via RSS/e-mail/Twitter
 
 ##### Action required
@@ -74,7 +74,7 @@ Re-evaluate a system and choose one of the three options:
 
 #### 3. ICO starts
 
-##### Source
+##### Source of information
 * Project’s updates via RSS/e-mail/Twitter
 
 ##### Action required  
@@ -87,7 +87,7 @@ Group 2
 
 #### 4. ICO closes
 
-##### Source
+##### Source of information
 * Project’s updates via RSS/e-mail/Twitter
 
 ##### Action required
@@ -102,7 +102,7 @@ Group 2
 
 #### 5. Token is listed on exchanges
 
-##### Source
+##### Source of information
 * Project’s updates via RSS/e-mail/Twitter
 
 ##### Actions required  
