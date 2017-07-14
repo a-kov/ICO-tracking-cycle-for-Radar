@@ -3,7 +3,7 @@
 This document describes a revised approach to tracking blockchain systems through different stages of their life cycle as applied by [cyber·Fund Radar](https://cyber.fund/radar). More specifically, it describes a reviewed procedure of listing new systems on Radar and following up their further development there. The document contains a methodology note and a step-by-step guide to be used by cyber·Fund. The final purpose of the document is to optimize the way cyber·Fund processes the incoming flow of new blockchain systems.
 
 ## Methodology
-### Classification of blockchain systems 
+### Two Groups of Blockchain Systems 
 In order to be listed on Radar, each new blockchain system will initially be located in one of the two following groups.
 
 #### Group 1: "Starred"/"Pinned"
@@ -22,7 +22,7 @@ _Selection criteria._ A system should meet the formal selection criteria only: i
 
 _Work approach._ Group 2 systems will be listed in a separate section on Radar and will be open to a verification by the community by voting them up or down. Group 2 systems will be processed by cyber·Fund on a second priority basis.
 
-### Tracking cycle
+### Radar Tracking Cycle
 A Radar tracking cycle consists of five stages divided by a type of a triggering event:
 
 1. PoC code or WP is released
@@ -65,7 +65,7 @@ Group 1
 * Distribute the report ASAP via all communication channels
 * Follow-up comments to the publication on cyber•Blog
 
-Group 2    
+Group 2
 Re-evaluate a system and choose one of the three options:
  * Remove to Group 1 and follow the actions for Group 1 systems described above
  * Leave in Group 2 (Purgatory) and update chaingear with new data
