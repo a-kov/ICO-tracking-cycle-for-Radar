@@ -43,11 +43,11 @@ The work flow per each stage is laid out below. For each stage a source of updat
 
 ##### Required actions
 
-Group 1
+Group 1  
 * Subscribe to the project’s RSS to track ICO related announcements; if not available - alert the team and subscribe to e-mail announcements
 * Add to chaingear which automatically places a system under “Anticipated” ICOs
 
-Group 2
+Group 2  
 * Subscribe to the project’s RSS to track ICO related announcements; if not available - alert the team and subscribe to Twitter and e-mail announcements
 * Add to chaingear under the section “Purgatory” (not yet available)
 
@@ -58,14 +58,14 @@ Group 2
 
 ##### Required actions
 
-Group 1
+Group 1  
 * Tweet about the ICO announcement 
 * Update chaingear with new data (a system is then removed to “Upcoming” ICOs)
 * Prepare a short/detailed report for cyber•Blog
 * Distribute the report ASAP via all communication channels
 * Follow-up comments to the publication on cyber•Blog
 
-Group 2  
+Group 2    
 Re-evaluate a system and choose one of the three options:
  * Remove to Group 1 and follow the actions for Group 1 systems described above
  * Leave in Group 2 (Purgatory) and update chaingear with new data
@@ -77,11 +77,11 @@ Re-evaluate a system and choose one of the three options:
 * Project’s updates via RSS/e-mail/Twitter
 
 ##### Required actions  
-Group 1
+Group 1  
 * Tweet ASAP about the start of ICO
 * Update chaingear (a system is then removed to "Ongoing" ICOs) 
 
-Group 2
+Group 2  
 * Update chaingear with new data (automatically removes the system to "Ongoing" ICOs) 
 
 ##### 4. ICO closes
@@ -90,12 +90,12 @@ Group 2
 * Project’s updates via RSS/e-mail/Twitter
 
 **Required actions**  
-Group 1
+Group 1  
 * Tweet ASAP about the end of ICO
 * Update ASAP the ICO end date on chaingear (a system is then removed to "Successful" ICOs) 
 * Update other post-ICO data on chaingear
 
-Group 2
+Group 2  
 * Update the ICO end date on chaingear (automatically removes the system to "Successful" ICOs) 
 * Update other post-ICO data on chaingear
 
@@ -105,9 +105,9 @@ Group 2
 * Project’s updates via RSS/e-mail/Twitter
 
 ##### Required actions  
-Group 1
+Group 1  
 * Tweet about the start of listing
 * Follow-up in weekly overview on cyber•Blog
 
 Group 2  
-R.I.P. until the community upvotes a system allowing to replace it post factum from Purgatory to "Successful" ICOs (the exact migration criteria and mechanism needs to be defined yet) 
+* R.I.P. unless at some point the community upvotes a system which will replace it post factum from "Purgatory" to "Successful" ICOs (the exact migration criteria and mechanism need to be defined yet) 
