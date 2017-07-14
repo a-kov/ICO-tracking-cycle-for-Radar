@@ -1,5 +1,3 @@
-# ICO tracking cycle for Radar
-
 ## About
 
 This document describes a revised approach to tracking blockchain systems through different stages of their life cycle as applied by [cyber·Fund Radar](https://cyber.fund/radar). More specifically, it describes a reviewed procedure of listing new systems on Radar and following up their further development there. The document contains a methodology note and a step-by-step guide to be used by cyber·Fund. The final purpose of the document is to optimize the way cyber·Fund processes the incoming flow of new blockchain systems.
