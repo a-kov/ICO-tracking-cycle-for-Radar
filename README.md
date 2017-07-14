@@ -57,17 +57,17 @@ Group 2:
 **Required actions**
 
 Group 1
-* Update chaingear (a system is then removed to “Upcoming” ICOs)
-* Tweet
+* Tweet about the ICO announcement 
+* Update chaingear with new data (a system is then removed to “Upcoming” ICOs)
 * Prepare a short/detailed report for cyber•Blog
 * Distribute the report ASAP via all communication channels
 * Follow-up comments to the publication on cyber•Blog
 
 Group 2
 Re-evaluate a system and choose one of the three options:
- * Leave in Group 2 (Purgatory)
- * Remove to Group 1 and follow the actions applicable to Group 1
- * Add a scam alert to chaingear (not yet available) and tweet a scam alert
+ * Remove to Group 1 and follow the actions for Group 1 systems described above
+ * Leave in Group 2 (Purgatory) and update chaingear with new data
+ * If a scam - Leave in Group 2 (Purgatory), update chaingear with new data, add a scam alert to chaingear (not yet available), and tweet a scam alert
 
 #### Stage 3. ICO starts
 
@@ -80,7 +80,7 @@ Group 1
 * Update chaingear (a system is then removed to "Ongoing" ICOs) 
 
 Group 2
-* Update chaingear (automatically removes the system to "Ongoing" ICOs) 
+* Update chaingear with new data (automatically removes the system to "Ongoing" ICOs) 
 
 #### Stage 4. ICO closes
 
@@ -94,7 +94,7 @@ Group 1
 * Update other post-ICO data on chaingear
 
 Group 2
-* Update ASAP the ICO end date on chaingear (automatically removes the system to "Successful" ICOs) 
+* Update the ICO end date on chaingear (automatically removes the system to "Successful" ICOs) 
 * Update other post-ICO data on chaingear
 
 #### Stage 5. Token is listed on exchanges
@@ -108,4 +108,4 @@ Group 1
 * Follow-up in weekly overview on cyber•Blog
 
 Group 2
-R.I.P.
+R.I.P. until the community upvotes a system allowing to replace it post factum from Purgatory to "Successful" ICOs (the exact migration criteria and mechanism needs to be defined yet) 
