@@ -2,7 +2,7 @@
 
 ## About
 
-This document describes a revised approach to tracking blockchain systems through different stages of their life cycle as applied by [cyber·Fund Radar] (https://cyber.fund/radar). More specifically, it describes a reviewed procedure of listing new systems on Radar and following up their further development there. The document contains a methodology note and a step-by-step guide to be used by cyber·Fund. The final purpose of the document is to optimize the way cyber·Fund processes the incoming flow of new blockchain systems.
+This document describes a revised approach to tracking blockchain systems through different stages of their life cycle as applied by [cyber·Fund Radar](https://cyber.fund/radar). More specifically, it describes a reviewed procedure of listing new systems on Radar and following up their further development there. The document contains a methodology note and a step-by-step guide to be used by cyber·Fund. The final purpose of the document is to optimize the way cyber·Fund processes the incoming flow of new blockchain systems.
 
 ## Methodology
 ### Classification of blockchain systems 
@@ -12,7 +12,7 @@ In order to be listed on Radar, each new blockchain system will initially be loc
 
 * _Description._ Systems that initially demonstrate a clear or at least some potential to deliver an interesting and valuable product worth investing into.
 * _Selection criteria._ The indicator used to define the system’s initial potential will be the quality of a whitepaper or of a Proof of Concept code. A system should also comply with the following minimal requirements: a published whitepaper or a Proof of Concept code, open source code policy, autonomous decentralized system on blockchain with economic incentives introduced via a token.
-* _Work approach._ By the end of the Radar tracking cycle, a system should be very well verified. As to systems that raise some concerns initially, cyber·Fund will follow up their development and can re-evaluate their potential later. As part of the verification process, an ICO report will be prepared on each system planning to raise funds via ICO. The report will be published on [cyber·Blog] (https://blog.cyber.fund/Cyber.Blog). Projects that look most promising for investors will be granted more attention in a report. The projects from this Group should be handled on a first priority basis.
+* _Work approach._ By the end of the Radar tracking cycle, a system should be very well verified. As to systems that raise some concerns initially, cyber·Fund will follow up their development and can re-evaluate their potential later. As part of the verification process, an ICO report will be prepared on each system planning to raise funds via ICO. The report will be published on [cyber·Blog](https://blog.cyber.fund/Cyber.Blog). Projects that look most promising for investors will be granted more attention in a report. The projects from this Group should be handled on a first priority basis.
 
 #### Group 2: "Purgatory" / "Laundry" 
 
