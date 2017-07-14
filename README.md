@@ -34,7 +34,7 @@ A Radar tracking cycle consists of five stages divided by a type of a triggering
 The stages can easily be renamed later keeping the underlying logic intact.  
 The work flow per each stage is laid out below. For each stage a source of updates (how do we know that a triggering event happened) and required actions (what should cyber·Fund undertake given a triggering event happened) are described. 
 
-#### STAGE 1. PoC code or WP is released
+#### 1. PoC code or WP is released
 
 ##### Source
 * Ad hoc updates from web (blogs, Twitter, online news media, etc.)
@@ -51,7 +51,7 @@ Group 2
 * Subscribe to the project’s RSS to track ICO related announcements; if not available - alert the team and subscribe to Twitter and e-mail announcements
 * Add to chaingear under the section “Purgatory” (not yet available)
 
-#### STAGE 2. ICO date announced
+#### 2. ICO date announced
 
 ##### Source
 * Project’s updates via RSS/e-mail/Twitter
@@ -72,7 +72,7 @@ Re-evaluate a system and choose one of the three options:
  * Leave in Group 2 (Purgatory) and update chaingear with new data
  * If a scam - Leave in Group 2 (Purgatory), update chaingear with new data, add a scam alert to chaingear (not yet available), and tweet a scam alert
 
-#### STAGE 3. ICO starts
+#### 3. ICO starts
 
 ##### Source
 * Project’s updates via RSS/e-mail/Twitter
@@ -85,7 +85,7 @@ Group 1
 Group 2  
 * Update chaingear with new data (automatically removes the system to "Ongoing" ICOs) 
 
-#### STAGE 4. ICO closes
+#### 4. ICO closes
 
 ##### Source
 * Project’s updates via RSS/e-mail/Twitter
@@ -100,7 +100,7 @@ Group 2
 * Update the ICO end date on chaingear (automatically removes the system to "Successful" ICOs) 
 * Update other post-ICO data on chaingear
 
-#### STAGE 5. Token is listed on exchanges
+#### 5. Token is listed on exchanges
 
 ##### Source
 * Project’s updates via RSS/e-mail/Twitter
