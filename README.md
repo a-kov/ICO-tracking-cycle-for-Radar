@@ -36,12 +36,12 @@ The work flow per each stage is laid out below. For each stage a source of updat
 
 #### STAGE 1. PoC code or WP is released
 
-##### Source of information
+##### Source
 * Ad hoc updates from web (blogs, Twitter, online news media, etc.)
-* Ad hoc external input, e.g. from Satoshi.Fund team
+* Ad hoc external input, e.g. from Satoshi•Fund team
 * Project’s request on cyber•Fund or cybernator
 
-##### Required actions
+##### Action required
 
 Group 1  
 * Subscribe to the project’s RSS to track ICO related announcements; if not available - alert the team and subscribe to e-mail announcements
@@ -53,10 +53,10 @@ Group 2
 
 #### STAGE 2. ICO date announced
 
-##### Source of information
+##### Source
 * Project’s updates via RSS/e-mail/Twitter
 
-##### Required actions
+##### Action required
 
 Group 1  
 * Tweet about the ICO announcement 
@@ -74,10 +74,10 @@ Re-evaluate a system and choose one of the three options:
 
 #### STAGE 3. ICO starts
 
-##### Source of information
+##### Source
 * Project’s updates via RSS/e-mail/Twitter
 
-##### Required actions  
+##### Action required  
 Group 1  
 * Tweet ASAP about the start of ICO
 * Update chaingear (a system is then removed to "Ongoing" ICOs) 
@@ -87,10 +87,10 @@ Group 2
 
 #### STAGE 4. ICO closes
 
-##### Source of information
+##### Source
 * Project’s updates via RSS/e-mail/Twitter
 
-##### Required actions
+##### Action required
 Group 1  
 * Tweet ASAP about the end of ICO
 * Update ASAP the ICO end date on chaingear (a system is then removed to "Successful" ICOs) 
@@ -102,10 +102,10 @@ Group 2
 
 #### STAGE 5. Token is listed on exchanges
 
-##### Source of information
+##### Source
 * Project’s updates via RSS/e-mail/Twitter
 
-##### Required actions  
+##### Actions required  
 Group 1  
 * Tweet about the start of listing
 * Follow-up in weekly overview on cyber•Blog
