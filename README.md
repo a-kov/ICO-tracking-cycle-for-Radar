@@ -4,7 +4,7 @@ This document describes a revised approach to tracking blockchain systems throug
 
 ## Methodology
 ### Two Groups of Blockchain Systems 
-In order to be listed on Radar, each new blockchain system will initially be located in one of the two following groups.
+In order to be listed on Radar, each new blockchain system will first be located in one of the two following groups.
 
 #### Group 1: "Starred"/"Pinned"
 
@@ -37,9 +37,9 @@ The work flow per each stage is laid out below. For each stage a source of updat
 #### 1. PoC code or WP is released
 
 ##### Source of information
-* Ad hoc updates from web (blogs, Twitter, online news media, etc.)
-* Ad hoc external input, e.g. from Satoshi•Fund team
 * Project’s request on cyber•Fund or cybernator
+* Ad hoc updates from web (blogs, Twitter, online news media, other ICO tracking resources, etc.)
+* Ad hoc external input, e.g. from Satoshi•Fund team
 
 ##### Action required
 
