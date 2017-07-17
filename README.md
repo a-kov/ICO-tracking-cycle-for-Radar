@@ -12,7 +12,7 @@ _Description._ Systems that initially demonstrate a clear or at least some poten
 
 _Selection criteria._ The indicator used to define the system’s initial potential will be the quality of a whitepaper or of a Proof of Concept code. A system should also comply with the following minimal requirements: a published whitepaper or a Proof of Concept code, open source code policy, autonomous decentralized system on blockchain with economic incentives introduced via a token.
 
-_Work approach._ By the end of the Radar tracking cycle, a system should be very well verified. As to systems that raise some concerns initially, cyber·Fund will follow up their development and can re-evaluate their potential later. As part of the verification process, an ICO report will be prepared on each system planning to raise funds via ICO. The report will be published on [cyber·Blog](https://blog.cyber.fund/Cyber.Blog). Projects that look most promising for investors will be granted more attention in a report. The projects from this Group should be handled on a first priority basis.
+_Work approach._ By the end of the Radar tracking cycle, a system should be very well verified. As to systems that raise some concerns initially, cyber·Fund will follow up their development and can re-evaluate their potential later. As part of the verification process, an ICO report will be prepared on each system planning to raise funds via ICO. The report will be published on [cyber·Blog](https://blog.cyber.fund/Cyber.Blog). Depending on the incoming flow of projects, either a project-sepcific ICO report will be prepared or a project will be invluded into an overview of multiple upcoming ICOs. The projects from this Group should be handled on a first priority basis.
 
 #### Group 2: "Purgatory"/"Laundry"/ "On Trial"
 
@@ -61,7 +61,7 @@ Group 2
 Group 1  
 * Tweet about the ICO announcement 
 * Update chaingear with new data (a system is then removed to “Upcoming” ICOs)
-* Prepare a short/detailed report for cyber•Blog
+* Prepare a report for cyber•Blog
 * Distribute the report ASAP via all communication channels
 * Follow-up comments to the publication on cyber•Blog
 
